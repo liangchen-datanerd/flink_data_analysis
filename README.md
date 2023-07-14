@@ -38,4 +38,4 @@ Contributions to this project are welcome! If you have any suggestions or enhanc
 
 This project is licensed under the Apache License 2.0 License.
 
-Let's embark on this exciting journey of exploring US population analysis using Flink and Scala. Feel free to reach out with any questions or feedback. Happy coding!
+Let's embark on this exciting journey of exploring data using Flink and Scala. Feel free to reach out with any questions or feedback. Happy coding!
